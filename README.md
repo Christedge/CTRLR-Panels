@@ -22,3 +22,7 @@ Thanks to information in the [electra forum](https://forum.electra.one/t/preset-
 - Select USB, MID, or U-M using the value dial.
 - Press the vlaue dial to confirm.
 - Connect the SE-02 to the panel via the chosen MIDI port.
+
+## Take 5
+
+The panel can emit a request to the Take 5 each time it receives a program change. The Take 5 will emit a program change each time one of the 16 program select buttons is pressd, though only in case »MIDI prog snd« in the globals menu is enabled.
