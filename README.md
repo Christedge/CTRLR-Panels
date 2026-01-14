@@ -15,7 +15,7 @@ In Poly Chain mode, the SE-02 sends a SysEx dump automatically each time it chan
 
 ### Normal mode
 
-The panel can emit a request to the SE-02 each time it receives a program change. This way, selecting another patch at the SE-02 will automatically update the panel so as to display the values of the currently selected patch. To do so, you need to enable that the SE-02 emits program changes. To do so:
+Thanks to information in the [electra forum](https://forum.electra.one/t/preset-roland-se-02-v2/1180/12), The panel can emit a request to the SE-02 each time it receives a program change. This way, selecting another patch at the SE-02 will automatically update the panel so as to display the values of the currently selected patch. To do so, you need to enable that the SE-02 emits program changes. To do so:
 
 - Hold the Exit/Comp button while powering the unit.
 - Press button [1]/6 ("Send PC").
