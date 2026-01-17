@@ -4,6 +4,10 @@ Some quick and dirty panel hacks I use. None of them can be used to control the 
 
 ## SE-02
 
+### Limitations
+
+Currently only works in case the SE-02 is operating on MIDI channel 1.
+
 ### Poly Chain mode
 
 In Poly Chain mode, the SE-02 sends a SysEx dump automatically each time it changes a patch. To switch it on or off:
