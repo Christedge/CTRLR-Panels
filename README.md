@@ -27,8 +27,6 @@ Thanks to information in the [electra forum](https://forum.electra.one/t/preset-
 - Press the vlaue dial to confirm.
 - Connect the SE-02 to the panel via the chosen MIDI port.
 
-Hidden feature: A single click on the program dial re-requests the current edit buffer from the SE-02, e.g. when the user changes some value on the device, the new values can be fetched without doing a program change.
-
 ## Sequential
 
-For Sequential Synths like the Take 5 or TEO-5 head over to [synthmutt](https://github.com/synthmutt/CtrlrPanelSequential).
+For further Sequential Synths like the Take 5 or TEO-5 head over to [synthmutt](https://github.com/synthmutt/CtrlrPanelSequential).
