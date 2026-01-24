@@ -8,7 +8,8 @@ Some quick and dirty panel hacks I use. None of them can be used to control the 
 
 ### Limitations
 
-Currently only works in case the SE-02 is operating on MIDI channel 1.
+* SysEx decoding not done yet, displayed values are often off to the actual value.
+* Currently only works in case the SE-02 is operating on MIDI channel 1.
 
 ### Poly Chain mode
 
