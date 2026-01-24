@@ -1,6 +1,8 @@
 # CTRLR-Panels
 
-Some quick and dirty panel hacks I use. None of them can be used to control the synth. They only can be used to visualize how a patch of the synth is constructed.
+Some quick and dirty panel hacks I use. None of them can be used to control the synth. They only can be used to visualize how a patch of the synth is constructed. Further, the required SysEx reverse engineering is not done yet, thus displayed values are often off to the actual value. Since I have little time, help is much appreciated.
+
+Despite those limitations, the panels provided are useful to get a visual clue how a patch is built anyway.
 
 ## Roland SE-02
 
@@ -8,7 +10,6 @@ Some quick and dirty panel hacks I use. None of them can be used to control the 
 
 ### Limitations
 
-* SysEx decoding not done yet, displayed values are often off to the actual value.
 * Currently only works in case the SE-02 is operating on MIDI channel 1.
 
 ### Poly Chain mode
