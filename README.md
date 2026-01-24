@@ -4,7 +4,7 @@ Some quick and dirty panel hacks I use. None of them can be used to control the 
 
 ## SE-02
 
-![](Screenshots/Roland SE-02 Patch Visualizer.png)
+![](./Screenshots/Roland SE-02 Patch Visualizer.png)
 
 ### Limitations
 
