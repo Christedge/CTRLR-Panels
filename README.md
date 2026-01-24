@@ -2,7 +2,7 @@
 
 Some quick and dirty panel hacks I use. None of them can be used to control the synth. They only can be used to visualize how a patch of the synth is constructed.
 
-## SE-02
+## Roland SE-02
 
 ![](Screenshots/Roland%20SE-02%20Patch%20Visualizer.png)
 
